@@ -1,0 +1,1500 @@
+[
+{
+"id": 1,
+"radical": "⼀",
+"base": "一",
+"ru": "один",
+"unicodeName": "KANGXI RADICAL ONE"
+},
+{
+"id": 2,
+"radical": "⼁",
+"base": "丨",
+"ru": "вертикальная черта",
+"unicodeName": "KANGXI RADICAL LINE"
+},
+{
+"id": 3,
+"radical": "⼂",
+"base": "丶",
+"ru": "точка",
+"unicodeName": "KANGXI RADICAL DOT"
+},
+{
+"id": 4,
+"radical": "⼃",
+"base": "丿",
+"ru": "откидная черта",
+"unicodeName": "KANGXI RADICAL SLASH"
+},
+{
+"id": 5,
+"radical": "⼄",
+"base": "乙",
+"ru": "второй",
+"unicodeName": "KANGXI RADICAL SECOND"
+},
+{
+"id": 6,
+"radical": "⼅",
+"base": "亅",
+"ru": "крючок",
+"unicodeName": "KANGXI RADICAL HOOK"
+},
+{
+"id": 7,
+"radical": "⼆",
+"base": "二",
+"ru": "два",
+"unicodeName": "KANGXI RADICAL TWO"
+},
+{
+"id": 8,
+"radical": "⼇",
+"base": "亠",
+"ru": "крышка",
+"unicodeName": "KANGXI RADICAL LID"
+},
+{
+"id": 9,
+"radical": "⼈",
+"base": "人",
+"ru": "человек",
+"unicodeName": "KANGXI RADICAL MAN"
+},
+{
+"id": 10,
+"radical": "⼉",
+"base": "儿",
+"ru": "ноги",
+"unicodeName": "KANGXI RADICAL LEGS"
+},
+{
+"id": 11,
+"radical": "⼊",
+"base": "入",
+"ru": "входить",
+"unicodeName": "KANGXI RADICAL ENTER"
+},
+{
+"id": 12,
+"radical": "⼋",
+"base": "八",
+"ru": "восемь",
+"unicodeName": "KANGXI RADICAL EIGHT"
+},
+{
+"id": 13,
+"radical": "⼌",
+"base": "冂",
+"ru": "рамка снизу",
+"unicodeName": "KANGXI RADICAL DOWN BOX"
+},
+{
+"id": 14,
+"radical": "⼍",
+"base": "冖",
+"ru": "покрывало",
+"unicodeName": "KANGXI RADICAL COVER"
+},
+{
+"id": 15,
+"radical": "⼎",
+"base": "冫",
+"ru": "лёд",
+"unicodeName": "KANGXI RADICAL ICE"
+},
+{
+"id": 16,
+"radical": "⼏",
+"base": "几",
+"ru": "столик",
+"unicodeName": "KANGXI RADICAL TABLE"
+},
+{
+"id": 17,
+"radical": "⼐",
+"base": "凵",
+"ru": "открытая коробка",
+"unicodeName": "KANGXI RADICAL OPEN BOX"
+},
+{
+"id": 18,
+"radical": "⼑",
+"base": "刀",
+"ru": "нож",
+"unicodeName": "KANGXI RADICAL KNIFE"
+},
+{
+"id": 19,
+"radical": "⼒",
+"base": "力",
+"ru": "сила",
+"unicodeName": "KANGXI RADICAL POWER"
+},
+{
+"id": 20,
+"radical": "⼓",
+"base": "勹",
+"ru": "обёртывать",
+"unicodeName": "KANGXI RADICAL WRAP"
+},
+{
+"id": 21,
+"radical": "⼔",
+"base": "匕",
+"ru": "ложка",
+"unicodeName": "KANGXI RADICAL SPOON"
+},
+{
+"id": 22,
+"radical": "⼕",
+"base": "匚",
+"ru": "коробка справа",
+"unicodeName": "KANGXI RADICAL RIGHT OPEN BOX"
+},
+{
+"id": 23,
+"radical": "⼖",
+"base": "匸",
+"ru": "укрытие",
+"unicodeName": "KANGXI RADICAL HIDING ENCLOSURE"
+},
+{
+"id": 24,
+"radical": "⼗",
+"base": "十",
+"ru": "десять",
+"unicodeName": "KANGXI RADICAL TEN"
+},
+{
+"id": 25,
+"radical": "⼘",
+"base": "卜",
+"ru": "гадание",
+"unicodeName": "KANGXI RADICAL DIVINATION"
+},
+{
+"id": 26,
+"radical": "⼙",
+"base": "卩",
+"ru": "печать",
+"unicodeName": "KANGXI RADICAL SEAL"
+},
+{
+"id": 27,
+"radical": "⼚",
+"base": "厂",
+"ru": "утёс",
+"unicodeName": "KANGXI RADICAL CLIFF"
+},
+{
+"id": 28,
+"radical": "⼛",
+"base": "厶",
+"ru": "личный",
+"unicodeName": "KANGXI RADICAL PRIVATE"
+},
+{
+"id": 29,
+"radical": "⼜",
+"base": "又",
+"ru": "снова",
+"unicodeName": "KANGXI RADICAL AGAIN"
+},
+{
+"id": 30,
+"radical": "⼝",
+"base": "口",
+"ru": "рот",
+"unicodeName": "KANGXI RADICAL MOUTH"
+},
+{
+"id": 31,
+"radical": "⼞",
+"base": "囗",
+"ru": "ограда",
+"unicodeName": "KANGXI RADICAL ENCLOSURE"
+},
+{
+"id": 32,
+"radical": "⼟",
+"base": "土",
+"ru": "земля",
+"unicodeName": "KANGXI RADICAL EARTH"
+},
+{
+"id": 33,
+"radical": "⼠",
+"base": "士",
+"ru": "учёный",
+"unicodeName": "KANGXI RADICAL SCHOLAR"
+},
+{
+"id": 34,
+"radical": "⼡",
+"base": "夂",
+"ru": "идти",
+"unicodeName": "KANGXI RADICAL GO"
+},
+{
+"id": 35,
+"radical": "⼢",
+"base": "夊",
+"ru": "идти медленно",
+"unicodeName": "KANGXI RADICAL GO SLOWLY"
+},
+{
+"id": 36,
+"radical": "⼣",
+"base": "夕",
+"ru": "вечер",
+"unicodeName": "KANGXI RADICAL EVENING"
+},
+{
+"id": 37,
+"radical": "⼤",
+"base": "大",
+"ru": "большой",
+"unicodeName": "KANGXI RADICAL BIG"
+},
+{
+"id": 38,
+"radical": "⼥",
+"base": "女",
+"ru": "женщина",
+"unicodeName": "KANGXI RADICAL WOMAN"
+},
+{
+"id": 39,
+"radical": "⼦",
+"base": "子",
+"ru": "ребёнок",
+"unicodeName": "KANGXI RADICAL CHILD"
+},
+{
+"id": 40,
+"radical": "⼧",
+"base": "宀",
+"ru": "крыша",
+"unicodeName": "KANGXI RADICAL ROOF"
+},
+{
+"id": 41,
+"radical": "⼨",
+"base": "寸",
+"ru": "дюйм",
+"unicodeName": "KANGXI RADICAL INCH"
+},
+{
+"id": 42,
+"radical": "⼩",
+"base": "小",
+"ru": "маленький",
+"unicodeName": "KANGXI RADICAL SMALL"
+},
+{
+"id": 43,
+"radical": "⼪",
+"base": "尢",
+"ru": "хромой",
+"unicodeName": "KANGXI RADICAL LAME"
+},
+{
+"id": 44,
+"radical": "⼫",
+"base": "尸",
+"ru": "тело",
+"unicodeName": "KANGXI RADICAL CORPSE"
+},
+{
+"id": 45,
+"radical": "⼬",
+"base": "屮",
+"ru": "росток",
+"unicodeName": "KANGXI RADICAL SPROUT"
+},
+{
+"id": 46,
+"radical": "⼭",
+"base": "山",
+"ru": "гора",
+"unicodeName": "KANGXI RADICAL MOUNTAIN"
+},
+{
+"id": 47,
+"radical": "⼮",
+"base": "巛",
+"ru": "река",
+"unicodeName": "KANGXI RADICAL RIVER"
+},
+{
+"id": 48,
+"radical": "⼯",
+"base": "工",
+"ru": "работа",
+"unicodeName": "KANGXI RADICAL WORK"
+},
+{
+"id": 49,
+"radical": "⼰",
+"base": "己",
+"ru": "сам",
+"unicodeName": "KANGXI RADICAL ONESELF"
+},
+{
+"id": 50,
+"radical": "⼱",
+"base": "巾",
+"ru": "полотенце",
+"unicodeName": "KANGXI RADICAL TURBAN"
+},
+{
+"id": 51,
+"radical": "⼲",
+"base": "干",
+"ru": "сухой",
+"unicodeName": "KANGXI RADICAL DRY"
+},
+{
+"id": 52,
+"radical": "⼳",
+"base": "幺",
+"ru": "короткая нить",
+"unicodeName": "KANGXI RADICAL SHORT THREAD"
+},
+{
+"id": 53,
+"radical": "⼴",
+"base": "广",
+"ru": "навес",
+"unicodeName": "KANGXI RADICAL DOTTED CLIFF"
+},
+{
+"id": 54,
+"radical": "⼵",
+"base": "廴",
+"ru": "длинный шаг",
+"unicodeName": "KANGXI RADICAL LONG STRIDE"
+},
+{
+"id": 55,
+"radical": "⼶",
+"base": "廾",
+"ru": "соединённые руки",
+"unicodeName": "KANGXI RADICAL TWO HANDS"
+},
+{
+"id": 56,
+"radical": "⼷",
+"base": "弋",
+"ru": "стрелять",
+"unicodeName": "KANGXI RADICAL SHOOT"
+},
+{
+"id": 57,
+"radical": "⼸",
+"base": "弓",
+"ru": "лук",
+"unicodeName": "KANGXI RADICAL BOW"
+},
+{
+"id": 58,
+"radical": "⼹",
+"base": "彐",
+"ru": "морда",
+"unicodeName": "KANGXI RADICAL SNOUT"
+},
+{
+"id": 59,
+"radical": "⼺",
+"base": "彡",
+"ru": "волосы",
+"unicodeName": "KANGXI RADICAL BRISTLE"
+},
+{
+"id": 60,
+"radical": "⼻",
+"base": "彳",
+"ru": "шаг",
+"unicodeName": "KANGXI RADICAL STEP"
+},
+{
+"id": 61,
+"radical": "⼼",
+"base": "心",
+"ru": "сердце",
+"unicodeName": "KANGXI RADICAL HEART"
+},
+{
+"id": 62,
+"radical": "⼽",
+"base": "戈",
+"ru": "копьё",
+"unicodeName": "KANGXI RADICAL HALBERD"
+},
+{
+"id": 63,
+"radical": "⼾",
+"base": "戶",
+"ru": "дверь",
+"unicodeName": "KANGXI RADICAL DOOR"
+},
+{
+"id": 64,
+"radical": "⼿",
+"base": "手",
+"ru": "рука",
+"unicodeName": "KANGXI RADICAL HAND"
+},
+{
+"id": 65,
+"radical": "⽀",
+"base": "支",
+"ru": "ветка",
+"unicodeName": "KANGXI RADICAL BRANCH"
+},
+{
+"id": 66,
+"radical": "⽁",
+"base": "攴",
+"ru": "стучать",
+"unicodeName": "KANGXI RADICAL RAP"
+},
+{
+"id": 67,
+"radical": "⽂",
+"base": "文",
+"ru": "письменность",
+"unicodeName": "KANGXI RADICAL SCRIPT"
+},
+{
+"id": 68,
+"radical": "⽃",
+"base": "斗",
+"ru": "ковш",
+"unicodeName": "KANGXI RADICAL DIPPER"
+},
+{
+"id": 69,
+"radical": "⽄",
+"base": "斤",
+"ru": "топор",
+"unicodeName": "KANGXI RADICAL AXE"
+},
+{
+"id": 70,
+"radical": "⽅",
+"base": "方",
+"ru": "сторона",
+"unicodeName": "KANGXI RADICAL SQUARE"
+},
+{
+"id": 71,
+"radical": "⽆",
+"base": "无",
+"ru": "отсутствие",
+"unicodeName": "KANGXI RADICAL NOT"
+},
+{
+"id": 72,
+"radical": "⽇",
+"base": "日",
+"ru": "солнце",
+"unicodeName": "KANGXI RADICAL SUN"
+},
+{
+"id": 73,
+"radical": "⽈",
+"base": "曰",
+"ru": "говорить",
+"unicodeName": "KANGXI RADICAL SAY"
+},
+{
+"id": 74,
+"radical": "⽉",
+"base": "月",
+"ru": "луна",
+"unicodeName": "KANGXI RADICAL MOON"
+},
+{
+"id": 75,
+"radical": "⽊",
+"base": "木",
+"ru": "дерево",
+"unicodeName": "KANGXI RADICAL TREE"
+},
+{
+"id": 76,
+"radical": "⽋",
+"base": "欠",
+"ru": "недоставать",
+"unicodeName": "KANGXI RADICAL LACK"
+},
+{
+"id": 77,
+"radical": "⽌",
+"base": "止",
+"ru": "останавливаться",
+"unicodeName": "KANGXI RADICAL STOP"
+},
+{
+"id": 78,
+"radical": "⽍",
+"base": "歹",
+"ru": "смерть",
+"unicodeName": "KANGXI RADICAL DEATH"
+},
+{
+"id": 79,
+"radical": "⽎",
+"base": "殳",
+"ru": "оружие",
+"unicodeName": "KANGXI RADICAL WEAPON"
+},
+{
+"id": 80,
+"radical": "⽏",
+"base": "毋",
+"ru": "не следует",
+"unicodeName": "KANGXI RADICAL DO NOT"
+},
+{
+"id": 81,
+"radical": "⽐",
+"base": "比",
+"ru": "сравнивать",
+"unicodeName": "KANGXI RADICAL COMPARE"
+},
+{
+"id": 82,
+"radical": "⽑",
+"base": "毛",
+"ru": "шерсть",
+"unicodeName": "KANGXI RADICAL FUR"
+},
+{
+"id": 83,
+"radical": "⽒",
+"base": "氏",
+"ru": "род",
+"unicodeName": "KANGXI RADICAL CLAN"
+},
+{
+"id": 84,
+"radical": "⽓",
+"base": "气",
+"ru": "пар",
+"unicodeName": "KANGXI RADICAL STEAM"
+},
+{
+"id": 85,
+"radical": "⽔",
+"base": "水",
+"ru": "вода",
+"unicodeName": "KANGXI RADICAL WATER"
+},
+{
+"id": 86,
+"radical": "⽕",
+"base": "火",
+"ru": "огонь",
+"unicodeName": "KANGXI RADICAL FIRE"
+},
+{
+"id": 87,
+"radical": "⽖",
+"base": "爪",
+"ru": "коготь",
+"unicodeName": "KANGXI RADICAL CLAW"
+},
+{
+"id": 88,
+"radical": "⽗",
+"base": "父",
+"ru": "отец",
+"unicodeName": "KANGXI RADICAL FATHER"
+},
+{
+"id": 89,
+"radical": "⽘",
+"base": "爻",
+"ru": "пересекающиеся черты",
+"unicodeName": "KANGXI RADICAL DOUBLE X"
+},
+{
+"id": 90,
+"radical": "⽙",
+"base": "爿",
+"ru": "расколотое дерево",
+"unicodeName": "KANGXI RADICAL HALF TREE TRUNK"
+},
+{
+"id": 91,
+"radical": "⽚",
+"base": "片",
+"ru": "ломтик",
+"unicodeName": "KANGXI RADICAL SLICE"
+},
+{
+"id": 92,
+"radical": "⽛",
+"base": "牙",
+"ru": "клык",
+"unicodeName": "KANGXI RADICAL FANG"
+},
+{
+"id": 93,
+"radical": "⽜",
+"base": "牛",
+"ru": "корова",
+"unicodeName": "KANGXI RADICAL COW"
+},
+{
+"id": 94,
+"radical": "⽝",
+"base": "犬",
+"ru": "собака",
+"unicodeName": "KANGXI RADICAL DOG"
+},
+{
+"id": 95,
+"radical": "⽞",
+"base": "玄",
+"ru": "тёмный",
+"unicodeName": "KANGXI RADICAL PROFOUND"
+},
+{
+"id": 96,
+"radical": "⽟",
+"base": "玉",
+"ru": "нефрит",
+"unicodeName": "KANGXI RADICAL JADE"
+},
+{
+"id": 97,
+"radical": "⽠",
+"base": "瓜",
+"ru": "дыня",
+"unicodeName": "KANGXI RADICAL MELON"
+},
+{
+"id": 98,
+"radical": "⽡",
+"base": "瓦",
+"ru": "черепица",
+"unicodeName": "KANGXI RADICAL TILE"
+},
+{
+"id": 99,
+"radical": "⽢",
+"base": "甘",
+"ru": "сладкий",
+"unicodeName": "KANGXI RADICAL SWEET"
+},
+{
+"id": 100,
+"radical": "⽣",
+"base": "生",
+"ru": "жизнь",
+"unicodeName": "KANGXI RADICAL LIFE"
+},
+{
+"id": 101,
+"radical": "⽤",
+"base": "用",
+"ru": "использовать",
+"unicodeName": "KANGXI RADICAL USE"
+},
+{
+"id": 102,
+"radical": "⽥",
+"base": "田",
+"ru": "поле",
+"unicodeName": "KANGXI RADICAL FIELD"
+},
+{
+"id": 103,
+"radical": "⽦",
+"base": "疋",
+"ru": "отрез ткани",
+"unicodeName": "KANGXI RADICAL BOLT OF CLOTH"
+},
+{
+"id": 104,
+"radical": "⽧",
+"base": "疒",
+"ru": "болезнь",
+"unicodeName": "KANGXI RADICAL SICKNESS"
+},
+{
+"id": 105,
+"radical": "⽨",
+"base": "癶",
+"ru": "следы ног",
+"unicodeName": "KANGXI RADICAL DOTTED TENT"
+},
+{
+"id": 106,
+"radical": "⽩",
+"base": "白",
+"ru": "белый",
+"unicodeName": "KANGXI RADICAL WHITE"
+},
+{
+"id": 107,
+"radical": "⽪",
+"base": "皮",
+"ru": "кожа",
+"unicodeName": "KANGXI RADICAL SKIN"
+},
+{
+"id": 108,
+"radical": "⽫",
+"base": "皿",
+"ru": "сосуд",
+"unicodeName": "KANGXI RADICAL DISH"
+},
+{
+"id": 109,
+"radical": "⽬",
+"base": "目",
+"ru": "глаз",
+"unicodeName": "KANGXI RADICAL EYE"
+},
+{
+"id": 110,
+"radical": "⽭",
+"base": "矛",
+"ru": "копьё",
+"unicodeName": "KANGXI RADICAL SPEAR"
+},
+{
+"id": 111,
+"radical": "⽮",
+"base": "矢",
+"ru": "стрела",
+"unicodeName": "KANGXI RADICAL ARROW"
+},
+{
+"id": 112,
+"radical": "⽯",
+"base": "石",
+"ru": "камень",
+"unicodeName": "KANGXI RADICAL STONE"
+},
+{
+"id": 113,
+"radical": "⽰",
+"base": "示",
+"ru": "алтарь",
+"unicodeName": "KANGXI RADICAL SPIRIT"
+},
+{
+"id": 114,
+"radical": "⽱",
+"base": "禸",
+"ru": "следы",
+"unicodeName": "KANGXI RADICAL TRACK"
+},
+{
+"id": 115,
+"radical": "⽲",
+"base": "禾",
+"ru": "злак",
+"unicodeName": "KANGXI RADICAL GRAIN"
+},
+{
+"id": 116,
+"radical": "⽳",
+"base": "穴",
+"ru": "пещера",
+"unicodeName": "KANGXI RADICAL CAVE"
+},
+{
+"id": 117,
+"radical": "⽴",
+"base": "立",
+"ru": "стоять",
+"unicodeName": "KANGXI RADICAL STAND"
+},
+{
+"id": 118,
+"radical": "⽵",
+"base": "竹",
+"ru": "бамбук",
+"unicodeName": "KANGXI RADICAL BAMBOO"
+},
+{
+"id": 119,
+"radical": "⽶",
+"base": "米",
+"ru": "рис",
+"unicodeName": "KANGXI RADICAL RICE"
+},
+{
+"id": 120,
+"radical": "⽷",
+"base": "糸",
+"ru": "шёлк",
+"unicodeName": "KANGXI RADICAL SILK"
+},
+{
+"id": 121,
+"radical": "⽸",
+"base": "缶",
+"ru": "сосуд для хранения",
+"unicodeName": "KANGXI RADICAL JAR"
+},
+{
+"id": 122,
+"radical": "⽹",
+"base": "网",
+"ru": "сеть",
+"unicodeName": "KANGXI RADICAL NET"
+},
+{
+"id": 123,
+"radical": "⽺",
+"base": "羊",
+"ru": "овца",
+"unicodeName": "KANGXI RADICAL SHEEP"
+},
+{
+"id": 124,
+"radical": "⽻",
+"base": "羽",
+"ru": "перо",
+"unicodeName": "KANGXI RADICAL FEATHER"
+},
+{
+"id": 125,
+"radical": "⽼",
+"base": "老",
+"ru": "старый",
+"unicodeName": "KANGXI RADICAL OLD"
+},
+{
+"id": 126,
+"radical": "⽽",
+"base": "而",
+"ru": "и",
+"unicodeName": "KANGXI RADICAL AND"
+},
+{
+"id": 127,
+"radical": "⽾",
+"base": "耒",
+"ru": "плуг",
+"unicodeName": "KANGXI RADICAL PLOW"
+},
+{
+"id": 128,
+"radical": "⽿",
+"base": "耳",
+"ru": "ухо",
+"unicodeName": "KANGXI RADICAL EAR"
+},
+{
+"id": 129,
+"radical": "⾀",
+"base": "聿",
+"ru": "кисть для письма",
+"unicodeName": "KANGXI RADICAL BRUSH"
+},
+{
+"id": 130,
+"radical": "⾁",
+"base": "肉",
+"ru": "мясо",
+"unicodeName": "KANGXI RADICAL MEAT"
+},
+{
+"id": 131,
+"radical": "⾂",
+"base": "臣",
+"ru": "чиновник",
+"unicodeName": "KANGXI RADICAL MINISTER"
+},
+{
+"id": 132,
+"radical": "⾃",
+"base": "自",
+"ru": "сам",
+"unicodeName": "KANGXI RADICAL SELF"
+},
+{
+"id": 133,
+"radical": "⾄",
+"base": "至",
+"ru": "достигать",
+"unicodeName": "KANGXI RADICAL ARRIVE"
+},
+{
+"id": 134,
+"radical": "⾅",
+"base": "臼",
+"ru": "ступка",
+"unicodeName": "KANGXI RADICAL MORTAR"
+},
+{
+"id": 135,
+"radical": "⾆",
+"base": "舌",
+"ru": "язык",
+"unicodeName": "KANGXI RADICAL TONGUE"
+},
+{
+"id": 136,
+"radical": "⾇",
+"base": "舛",
+"ru": "противоположное",
+"unicodeName": "KANGXI RADICAL OPPOSE"
+},
+{
+"id": 137,
+"radical": "⾈",
+"base": "舟",
+"ru": "лодка",
+"unicodeName": "KANGXI RADICAL BOAT"
+},
+{
+"id": 138,
+"radical": "⾉",
+"base": "艮",
+"ru": "остановка",
+"unicodeName": "KANGXI RADICAL STOPPING"
+},
+{
+"id": 139,
+"radical": "⾊",
+"base": "色",
+"ru": "цвет",
+"unicodeName": "KANGXI RADICAL COLOR"
+},
+{
+"id": 140,
+"radical": "⾋",
+"base": "艸",
+"ru": "трава",
+"unicodeName": "KANGXI RADICAL GRASS"
+},
+{
+"id": 141,
+"radical": "⾌",
+"base": "虍",
+"ru": "тигр",
+"unicodeName": "KANGXI RADICAL TIGER"
+},
+{
+"id": 142,
+"radical": "⾍",
+"base": "虫",
+"ru": "насекомое",
+"unicodeName": "KANGXI RADICAL INSECT"
+},
+{
+"id": 143,
+"radical": "⾎",
+"base": "血",
+"ru": "кровь",
+"unicodeName": "KANGXI RADICAL BLOOD"
+},
+{
+"id": 144,
+"radical": "⾏",
+"base": "行",
+"ru": "ходить",
+"unicodeName": "KANGXI RADICAL WALK ENCLOSURE"
+},
+{
+"id": 145,
+"radical": "⾐",
+"base": "衣",
+"ru": "одежда",
+"unicodeName": "KANGXI RADICAL CLOTHES"
+},
+{
+"id": 146,
+"radical": "⾑",
+"base": "襾",
+"ru": "покрывало",
+"unicodeName": "KANGXI RADICAL WEST"
+},
+{
+"id": 147,
+"radical": "⾒",
+"base": "見",
+"ru": "видеть",
+"unicodeName": "KANGXI RADICAL SEE"
+},
+{
+"id": 148,
+"radical": "⾓",
+"base": "角",
+"ru": "рог",
+"unicodeName": "KANGXI RADICAL HORN"
+},
+{
+"id": 149,
+"radical": "⾔",
+"base": "言",
+"ru": "речь",
+"unicodeName": "KANGXI RADICAL SPEECH"
+},
+{
+"id": 150,
+"radical": "⾕",
+"base": "谷",
+"ru": "долина",
+"unicodeName": "KANGXI RADICAL VALLEY"
+},
+{
+"id": 151,
+"radical": "⾖",
+"base": "豆",
+"ru": "бобы",
+"unicodeName": "KANGXI RADICAL BEAN"
+},
+{
+"id": 152,
+"radical": "⾗",
+"base": "豕",
+"ru": "свинья",
+"unicodeName": "KANGXI RADICAL PIG"
+},
+{
+"id": 153,
+"radical": "⾘",
+"base": "豸",
+"ru": "барсук",
+"unicodeName": "KANGXI RADICAL BADGER"
+},
+{
+"id": 154,
+"radical": "⾙",
+"base": "貝",
+"ru": "раковина",
+"unicodeName": "KANGXI RADICAL SHELL"
+},
+{
+"id": 155,
+"radical": "⾚",
+"base": "赤",
+"ru": "красный",
+"unicodeName": "KANGXI RADICAL RED"
+},
+{
+"id": 156,
+"radical": "⾛",
+"base": "走",
+"ru": "бежать",
+"unicodeName": "KANGXI RADICAL RUN"
+},
+{
+"id": 157,
+"radical": "⾜",
+"base": "足",
+"ru": "стопа",
+"unicodeName": "KANGXI RADICAL FOOT"
+},
+{
+"id": 158,
+"radical": "⾝",
+"base": "身",
+"ru": "тело",
+"unicodeName": "KANGXI RADICAL BODY"
+},
+{
+"id": 159,
+"radical": "⾞",
+"base": "車",
+"ru": "повозка",
+"unicodeName": "KANGXI RADICAL CART"
+},
+{
+"id": 160,
+"radical": "⾟",
+"base": "辛",
+"ru": "горький",
+"unicodeName": "KANGXI RADICAL BITTER"
+},
+{
+"id": 161,
+"radical": "⾠",
+"base": "辰",
+"ru": "утро",
+"unicodeName": "KANGXI RADICAL MORNING"
+},
+{
+"id": 162,
+"radical": "⾡",
+"base": "辵",
+"ru": "движение",
+"unicodeName": "KANGXI RADICAL WALK"
+},
+{
+"id": 163,
+"radical": "⾢",
+"base": "邑",
+"ru": "город",
+"unicodeName": "KANGXI RADICAL CITY"
+},
+{
+"id": 164,
+"radical": "⾣",
+"base": "酉",
+"ru": "вино",
+"unicodeName": "KANGXI RADICAL WINE"
+},
+{
+"id": 165,
+"radical": "⾤",
+"base": "釆",
+"ru": "различать",
+"unicodeName": "KANGXI RADICAL DISTINGUISH"
+},
+{
+"id": 166,
+"radical": "⾥",
+"base": "里",
+"ru": "деревня",
+"unicodeName": "KANGXI RADICAL VILLAGE"
+},
+{
+"id": 167,
+"radical": "⾦",
+"base": "金",
+"ru": "металл",
+"unicodeName": "KANGXI RADICAL GOLD"
+},
+{
+"id": 168,
+"radical": "⾧",
+"base": "長",
+"ru": "длинный",
+"unicodeName": "KANGXI RADICAL LONG"
+},
+{
+"id": 169,
+"radical": "⾨",
+"base": "門",
+"ru": "ворота",
+"unicodeName": "KANGXI RADICAL GATE"
+},
+{
+"id": 170,
+"radical": "⾩",
+"base": "阜",
+"ru": "холм",
+"unicodeName": "KANGXI RADICAL MOUND"
+},
+{
+"id": 171,
+"radical": "⾪",
+"base": "隶",
+"ru": "раб",
+"unicodeName": "KANGXI RADICAL SLAVE"
+},
+{
+"id": 172,
+"radical": "⾫",
+"base": "隹",
+"ru": "короткохвостая птица",
+"unicodeName": "KANGXI RADICAL SHORT TAILED BIRD"
+},
+{
+"id": 173,
+"radical": "⾬",
+"base": "雨",
+"ru": "дождь",
+"unicodeName": "KANGXI RADICAL RAIN"
+},
+{
+"id": 174,
+"radical": "⾭",
+"base": "靑",
+"ru": "сине-зелёный",
+"unicodeName": "KANGXI RADICAL BLUE"
+},
+{
+"id": 175,
+"radical": "⾮",
+"base": "非",
+"ru": "неправильный",
+"unicodeName": "KANGXI RADICAL WRONG"
+},
+{
+"id": 176,
+"radical": "⾯",
+"base": "面",
+"ru": "лицо",
+"unicodeName": "KANGXI RADICAL FACE"
+},
+{
+"id": 177,
+"radical": "⾰",
+"base": "革",
+"ru": "кожа",
+"unicodeName": "KANGXI RADICAL LEATHER"
+},
+{
+"id": 178,
+"radical": "⾱",
+"base": "韋",
+"ru": "выделанная кожа",
+"unicodeName": "KANGXI RADICAL TANNED LEATHER"
+},
+{
+"id": 179,
+"radical": "⾲",
+"base": "韭",
+"ru": "лук-порей",
+"unicodeName": "KANGXI RADICAL LEEK"
+},
+{
+"id": 180,
+"radical": "⾳",
+"base": "音",
+"ru": "звук",
+"unicodeName": "KANGXI RADICAL SOUND"
+},
+{
+"id": 181,
+"radical": "⾴",
+"base": "頁",
+"ru": "страница",
+"unicodeName": "KANGXI RADICAL LEAF"
+},
+{
+"id": 182,
+"radical": "⾵",
+"base": "風",
+"ru": "ветер",
+"unicodeName": "KANGXI RADICAL WIND"
+},
+{
+"id": 183,
+"radical": "⾶",
+"base": "飛",
+"ru": "летать",
+"unicodeName": "KANGXI RADICAL FLY"
+},
+{
+"id": 184,
+"radical": "⾷",
+"base": "食",
+"ru": "еда",
+"unicodeName": "KANGXI RADICAL EAT"
+},
+{
+"id": 185,
+"radical": "⾸",
+"base": "首",
+"ru": "голова",
+"unicodeName": "KANGXI RADICAL HEAD"
+},
+{
+"id": 186,
+"radical": "⾹",
+"base": "香",
+"ru": "аромат",
+"unicodeName": "KANGXI RADICAL FRAGRANT"
+},
+{
+"id": 187,
+"radical": "⾺",
+"base": "馬",
+"ru": "лошадь",
+"unicodeName": "KANGXI RADICAL HORSE"
+},
+{
+"id": 188,
+"radical": "⾻",
+"base": "骨",
+"ru": "кость",
+"unicodeName": "KANGXI RADICAL BONE"
+},
+{
+"id": 189,
+"radical": "⾼",
+"base": "高",
+"ru": "высокий",
+"unicodeName": "KANGXI RADICAL TALL"
+},
+{
+"id": 190,
+"radical": "⾽",
+"base": "髟",
+"ru": "длинные волосы",
+"unicodeName": "KANGXI RADICAL HAIR"
+},
+{
+"id": 191,
+"radical": "⾾",
+"base": "鬥",
+"ru": "сражаться",
+"unicodeName": "KANGXI RADICAL FIGHT"
+},
+{
+"id": 192,
+"radical": "⾿",
+"base": "鬯",
+"ru": "ритуальное вино",
+"unicodeName": "KANGXI RADICAL SACRIFICIAL WINE"
+},
+{
+"id": 193,
+"radical": "⿀",
+"base": "鬲",
+"ru": "котёл",
+"unicodeName": "KANGXI RADICAL CAULDRON"
+},
+{
+"id": 194,
+"radical": "⿁",
+"base": "鬼",
+"ru": "призрак",
+"unicodeName": "KANGXI RADICAL GHOST"
+},
+{
+"id": 195,
+"radical": "⿂",
+"base": "魚",
+"ru": "рыба",
+"unicodeName": "KANGXI RADICAL FISH"
+},
+{
+"id": 196,
+"radical": "⿃",
+"base": "鳥",
+"ru": "птица",
+"unicodeName": "KANGXI RADICAL BIRD"
+},
+{
+"id": 197,
+"radical": "⿄",
+"base": "鹵",
+"ru": "соль",
+"unicodeName": "KANGXI RADICAL SALT"
+},
+{
+"id": 198,
+"radical": "⿅",
+"base": "鹿",
+"ru": "олень",
+"unicodeName": "KANGXI RADICAL DEER"
+},
+{
+"id": 199,
+"radical": "⿆",
+"base": "麥",
+"ru": "пшеница",
+"unicodeName": "KANGXI RADICAL WHEAT"
+},
+{
+"id": 200,
+"radical": "⿇",
+"base": "麻",
+"ru": "конопля",
+"unicodeName": "KANGXI RADICAL HEMP"
+},
+{
+"id": 201,
+"radical": "⿈",
+"base": "黃",
+"ru": "жёлтый",
+"unicodeName": "KANGXI RADICAL YELLOW"
+},
+{
+"id": 202,
+"radical": "⿉",
+"base": "黍",
+"ru": "просо",
+"unicodeName": "KANGXI RADICAL MILLET"
+},
+{
+"id": 203,
+"radical": "⿊",
+"base": "黑",
+"ru": "чёрный",
+"unicodeName": "KANGXI RADICAL BLACK"
+},
+{
+"id": 204,
+"radical": "⿋",
+"base": "黹",
+"ru": "вышивка",
+"unicodeName": "KANGXI RADICAL EMBROIDERY"
+},
+{
+"id": 205,
+"radical": "⿌",
+"base": "黽",
+"ru": "лягушка",
+"unicodeName": "KANGXI RADICAL FROG"
+},
+{
+"id": 206,
+"radical": "⿍",
+"base": "鼎",
+"ru": "треножник",
+"unicodeName": "KANGXI RADICAL TRIPOD"
+},
+{
+"id": 207,
+"radical": "⿎",
+"base": "鼓",
+"ru": "барабан",
+"unicodeName": "KANGXI RADICAL DRUM"
+},
+{
+"id": 208,
+"radical": "⿏",
+"base": "鼠",
+"ru": "мышь",
+"unicodeName": "KANGXI RADICAL RAT"
+},
+{
+"id": 209,
+"radical": "⿐",
+"base": "鼻",
+"ru": "нос",
+"unicodeName": "KANGXI RADICAL NOSE"
+},
+{
+"id": 210,
+"radical": "⿑",
+"base": "齊",
+"ru": "ровный",
+"unicodeName": "KANGXI RADICAL EVEN"
+},
+{
+"id": 211,
+"radical": "⿒",
+"base": "齒",
+"ru": "зуб",
+"unicodeName": "KANGXI RADICAL TOOTH"
+},
+{
+"id": 212,
+"radical": "⿓",
+"base": "龍",
+"ru": "дракон",
+"unicodeName": "KANGXI RADICAL DRAGON"
+},
+{
+"id": 213,
+"radical": "⿔",
+"base": "龜",
+"ru": "черепаха",
+"unicodeName": "KANGXI RADICAL TURTLE"
+},
+{
+"id": 214,
+"radical": "⿕",
+"base": "龠",
+"ru": "флейта",
+"unicodeName": "KANGXI RADICAL FLUTE"
+}
+]

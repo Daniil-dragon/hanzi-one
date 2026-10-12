@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Hanzi One — китайский каждый день",
+  "short_name": "Hanzi One",
+  "description": "Личные уроки, карточки, ключи и тренировка китайского языка",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080e16",
+  "theme_color": "#080e16",
+  "lang": "ru",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"},
+    {"src":"icon-maskable.svg","sizes":"any","type":"image/svg+xml","purpose":"maskable"}
+  ]
+}

@@ -15,3 +15,12 @@ main{max-width:700px;margin:auto;padding:16px 18px 118px;min-height:70vh}.toplin
 @media(max-width:420px){.item{flex-wrap:wrap}.mini-actions{width:100%;justify-content:flex-end}.choices{grid-template-columns:1fr}.audio-symbol{font-size:68px}}
 
 .upload-label{display:inline-block;cursor:pointer;margin:10px 0;position:relative}.upload-label:focus-within{outline:2px solid var(--jade);outline-offset:3px}.file-input{position:absolute!important;width:1px!important;height:1px!important;overflow:hidden;clip-path:inset(50%);opacity:0}
+
+/* Thematic lessons, sentence building and iPhone safe areas. */
+.dialogue-line{display:flex;align-items:flex-start;gap:10px;padding:12px 0;border-bottom:1px solid var(--line)}
+.dialogue-line:last-child{border-bottom:0}.dialogue-hanzi{font-size:22px;overflow-wrap:anywhere}
+.sentence-answer{min-height:70px;padding:16px;background:#0d1a23;border:1px dashed var(--jade);border-radius:12px;font-size:22px;margin:18px 0;overflow-wrap:anywhere}
+.token-bank{display:flex;flex-wrap:wrap;gap:8px}.token-bank .btn{min-width:44px}
+.nav{bottom:calc(12px + env(safe-area-inset-bottom,0px))}header{padding-top:calc(24px + env(safe-area-inset-top,0px))}
+main{padding-bottom:calc(118px + env(safe-area-inset-bottom,0px))}footer{padding-bottom:calc(110px + env(safe-area-inset-bottom,0px))}
+@media(max-width:420px){.four{grid-template-columns:repeat(2,minmax(0,1fr))}}

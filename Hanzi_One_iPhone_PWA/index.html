@@ -8,7 +8,7 @@
 <link rel="stylesheet" href="styles.css"><title>Hanzi One — китайский каждый день</title>
 </head>
 <body>
-<header><div class="brand"><div class="brand-icon">汉</div><div><b>HANZI ONE</b><small>你的中文 · твой китайский</small></div></div><span id="storage-label" class="pill">локально</span></header>
+<header><div class="brand"><div class="brand-icon">汉</div><div><b>HANZI ONE</b><small>你的中文 · твой китайский</small></div></div><div><button id="update-app" class="btn alt small" data-action="apply-update" hidden>Обновить</button> <span id="storage-label" class="pill">локально</span></div></header>
 <main id="app"><section class="panel"><h2>Загрузка…</h2><p>Подготавливаем уроки и словарь.</p></section></main>
 <nav class="nav" aria-label="Основное меню" id="nav">
 <button data-nav="home" class="active"><span class="glyph">⌂</span>Главная</button>
@@ -17,6 +17,9 @@
 <button data-nav="hanzi"><span class="glyph">文</span>Иероглифы</button>
 <button data-nav="more"><span class="glyph">☷</span>Ещё</button>
 </nav>
-<footer>Hanzi One · Учебный проект. Данные и результаты хранятся на этом устройстве. При очистке данных Safari они могут исчезнуть — создавайте резервную копию.</footer>
+<footer>Hanzi One · Версия 0.3 · Учебный проект. Данные и результаты хранятся на этом устройстве. При очистке данных Safari они могут исчезнуть — создавайте резервную копию.</footer>
+<script src="learning-core.js" defer></script>
+<script src="course-data.js" defer></script>
+<script src="study.js" defer></script>
 <script src="app.js" defer></script>
 </body></html>

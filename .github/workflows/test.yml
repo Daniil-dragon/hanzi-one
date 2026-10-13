@@ -1,0 +1,25 @@
+name: Check Hanzi One
+on:
+  pull_request:
+  push:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  learning-and-backups:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - run: npm test
+      - run: python tools/test_ru_pack.py
+      - run: npm ci --ignore-scripts
+      - run: npx playwright install --with-deps chromium
+      - name: Start local application and test learning flows
+        run: |
+          python -m http.server 8000 >/tmp/hanzi-server.log 2>&1 &
+          curl --fail --location https://raw.githubusercontent.com/profesorm/hsk30/main/data/hsk_vocabulary_compact.json --output /tmp/hanzi-hsk.json
+          HANZI_HSK_FIXTURE=/tmp/hanzi-hsk.json npm test
+          HANZI_HSK_FIXTURE=/tmp/hanzi-hsk.json npm run test:browser
